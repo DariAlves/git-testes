@@ -1,3 +1,5 @@
-senhas.txt
+# senhas.txt
+
+*.txt
 
 *.csv
