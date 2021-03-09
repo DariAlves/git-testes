@@ -1,5 +1,5 @@
-# senhas.txt
+# Ignorar todos os arquivos
+*
 
-*.txt
-
-*.csv
+# Ignorar todos os arquivos, exceto
+!*.csv
