@@ -1,5 +1,5 @@
 # Ignorar todos os arquivos
 *
 
-# Ignorar todos os arquivos, exceto
+# Ignorar com exceções
 !*.csv
